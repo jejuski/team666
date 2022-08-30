@@ -1,0 +1,24 @@
+.head {
+  font-size: 70px;
+  font-weight: 600;
+  font-family: 'Gugi', cursive;
+  text-align: center;
+  padding-top: 10px;
+  
+}
+.inputButton {
+  border: none;
+  height: 50px;
+  border-radius: 40px;
+  background-color: #809ce5;
+  width: 140px;
+  color: rgb(244, 247, 250);
+  font-weight: 600;
+  margin-left: 17em;
+  font-family: 'Gugi', cursive;
+  font-size: 30px;
+  margin-top: 5px;
+}
+.btn{
+  float : left;
+}
